@@ -14,7 +14,7 @@ export const Hero = () => {
   const constraintsRef = useRef<HTMLDivElement | null>(null)
 
   useEffect(() => {
-    setBg("#E53E3E")
+    setBg("red.500")
   }, [])
 
   return (

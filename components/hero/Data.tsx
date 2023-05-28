@@ -20,27 +20,27 @@ export interface bgColor {
 export const bgColors: bgColor[] = [
   {
     name: "red",
-    hex: "#E53E3E",
+    hex: "red.500",
   },
   {
     name: "green",
-    hex: "#38A169",
+    hex: "green.400",
   },
   {
     name: "blue",
-    hex: "#3182CE",
+    hex: "blue.400",
   },
   {
     name: "purple",
-    hex: "#805AD5",
+    hex: "purple.400",
   },
   {
     name: "yellow",
-    hex: "#D69E2E",
+    hex: "yellow.400",
   },
   {
     name: "orange",
-    hex: "#DD6B20",
+    hex: "orange.400",
   },
 ]
 
